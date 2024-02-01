@@ -8,9 +8,9 @@ Currently working as an Event Tech Project Manager where I build apps and websit
 
 Prior to this I have 14 years experience in Customer Service, working in a variety of industries such as hospitality, tourism and corporate. I am a valuable team-player with strong communication skills and effective problem solving ability. I am eager to continue my journey in the tech industry in an exciting development team where I can grow and contribute!
 
-### 🌐 Web Dev
-
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
+|  🌐 Web Dev | 📜 JavaScript | ### 🐍 Python |
+| :----: | :----: | --- | --- |
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> | <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> | <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"><img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4"> |
 
 ### 📜 JavaScript
 
