@@ -2,9 +2,10 @@
 
 Diploma in Full-Stack Software Development
 
-Currently working as an Event Tech Project Manager where I build apps and website platforms using the CrowdComms CMS, helping clients to achieve the look, feel and flow of their website and app, ensuring a smooth running of the tech at their event. I enjoy putting peoples ideas and wants into practice, and creating a platform that enhances the user experience.
+I specialize in full-stack development, theme customization, and seamless client interaction. From e-commerce optimization to creating tailored web applications, I enjoy turning client visions into functional realities. My previous roles as a Tech Project Manager strengthened my ability to manage projects end-to-end, ensuring client satisfaction while delivering high-performance, cross-platform web solutions.
 
-Prior to this I have 14 years experience in Customer Service, working in a variety of industries such as hospitality, tourism and corporate. I am a valuable team-player with strong communication skills and effective problem solving ability. I am eager to continue my journey in the tech industry in an exciting development team where I can grow and contribute!
+I like helping clients to achieve the look, feel and flow of their website and app, and putting peoples ideas and wants into practice, creating a platform that enhances the user experience.
+
 
 # Technologies
 
@@ -15,6 +16,6 @@ Prior to this I have 14 years experience in Customer Service, working in a varie
 
 ## Next on the learning list
 
-| **JavaScript** | 
+| **Frontend** | 
 | -------- | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">|
